@@ -1,0 +1,6 @@
+O psutil é uma biblioteca necessária para acessar informações sobre os processos e conexões de rede no seu sistema. Você precisa instalá-la no seu ambiente Python.
+    Abra o Prompt de Comando ou o PowerShell.
+    Instale o psutil com o seguinte comando:
+pip install psutil
+cd C:\caminho\para\o\diretorio
+python scriptlistening_windows.py
